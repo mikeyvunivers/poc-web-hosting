@@ -1,0 +1,50 @@
+[
+  {
+    "factor": "Payment history",
+    "account": 40,
+    "change": 28,
+    "content": "You paid 1 bill late. This now makes 4 bills that you have paid late in the last year."
+  },
+  {
+    "factor": "Payment history",
+    "account": 40,
+    "change": 28,
+    "content": "Your older account is 20 yrs 3 months"
+  },
+  {
+    "factor": "Payment history",
+    "account": 40,
+    "change": -28,
+    "content": "You paid 1 bill late. This now makes 4 bills that you have paid late in the last year."
+  },
+  {
+    "factor": "Payment history",
+    "account": 40,
+    "change": 28,
+    "content": "Your credit usage went up 13% to 26%. "
+  },
+  {
+    "factor": "Payment history",
+    "account": 40,
+    "change": 0,
+    "content": "Your total balances went up $1,403 to $25,330"
+  },
+  {
+    "factor": "Payment history",
+    "account": 40,
+    "change": 28,
+    "content": "You had no recent credit checks, and 2 in the past 2 years. "
+  },
+  {
+    "factor": "Payment history",
+    "account": 40,
+    "change": -28,
+    "content": "You paid 1 bill late. This now makes 4 bills that you have paid late in the last year."
+  },
+  {
+    "factor": "Payment history",
+    "account": 40,
+    "change": 28,
+    "content": "Your available credit has gone up to $70,075"
+  }
+]
